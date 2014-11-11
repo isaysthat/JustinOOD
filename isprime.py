@@ -1,5 +1,5 @@
 import math
-def isprime(n):
+def isprime(int(n)):
     if n == 1:
         return False
     if n == 2:
@@ -15,7 +15,7 @@ def isprime(n):
 def primesto(n):
     for x in range (1,n+1):
         if isprime(x):
-            print x
+            print (x)
 
 
 
