@@ -22,4 +22,4 @@ def primesto(n):
 num = input('Enter a number to get Primes: ')
 primesto(num)
 
-// Looks good to me Justin
+# Looks good to me Justin
